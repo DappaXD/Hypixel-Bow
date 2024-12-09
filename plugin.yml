@@ -1,10 +1,10 @@
 ---
 name: HypixelBow
-api: 5.0.0
+api: 5.23.1
 main: kostamax27\HypixelBow\HypixelBow
-version: 1.2.2
+version: 1.2.3
 author: kostamax27
-mcpe-protocol: [486, 503, 527, 534, 544, 545, 554, 557, 560, 567, 575, 582, 589, 594, 618, 622, 630, 649]
+mcpe-protocol: [486, 503, 527, 534, 544, 545, 554, 557, 560, 567, 575, 582, 589, 594, 618, 622, 630, 649, 766]
 
 virions:
   - FormsUI
